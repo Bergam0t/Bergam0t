@@ -22,8 +22,11 @@ I'd love to chat about
 - improving data literacy in the NHS and helping stakeholders understand the amazing potential of R, Python, advanced analytics, operational research and data science 
 
 Here are a couple of the things I've created:
+
 ## Animated event logs for discrete event simulation
+
 https://github.com/Bergam0t/Bergam0t/assets/29951987/8c0b1c90-6f0b-4c37-b670-7317b8171509
+
 Play around with a live demo of this [here](https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit) - note that it won't load in Firefox!
 
 ## Theographs (Pearn Charts/Service use timelines) for PowerBI
