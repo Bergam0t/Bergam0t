@@ -21,6 +21,18 @@ I'd love to chat about
 - how to make it easier for analysts and data scientists to securely deploy custom web apps in their organisations
 - improving data literacy in the NHS and helping stakeholders understand the amazing potential of R, Python, advanced analytics, operational research and data science 
 
+Here are a couple of the things I've created:
+## Animated event logs for discrete event simulation
+https://github.com/Bergam0t/Bergam0t/assets/29951987/8c0b1c90-6f0b-4c37-b670-7317b8171509
+Play around with a live demo of this [here](https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit) - note that it won't load in Firefox!
+
+## Theographs (Pearn Charts/Service use timelines) for PowerBI
+![image](https://github.com/Bergam0t/Bergam0t/assets/29951987/d8434477-7ea3-4043-93b8-7bb8ab5d98c7)
+
+## SPC charts for PowerBI (based on code from the NHSRPlotTheDots project)
+![image](https://github.com/Bergam0t/Bergam0t/assets/29951987/9400203f-927c-471e-b56c-179576ae931a)
+
+
 <!--
 **Bergam0t/Bergam0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
