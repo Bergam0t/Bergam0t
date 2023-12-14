@@ -30,23 +30,17 @@ https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit/assets/2995198
 Play around with a live demo of this [here](https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit) - note that it won't load in Firefox!
 
 ## Theographs (Pearn Charts/Service use timelines) for PowerBI
+This custom PowerBI visual takes a simple, routinely collected dataset of patient history and displays it in a clear format. 
+
+Long-term referrals as well as individual interactions with services can be shown, with customisable tooltips, allowing clinicians to get an overview of a patient's history in a quick glance and spot repeated patterns of service interaction. Designed initially for use in mental health services, where clients can have more than a decade of data, thousands of contacts, and systems which display these details as rows of text rather than in a way that allows easy interpretation.
+
 ![image](https://github.com/Bergam0t/Bergam0t/assets/29951987/d8434477-7ea3-4043-93b8-7bb8ab5d98c7)
 
+
 ## SPC charts for PowerBI (based on code from the NHSRPlotTheDots project)
+This custom PowerBI visual allows SPC charts to be created within PowerBI that automatically adhere to the making data count guidance. 
+
 ![image](https://github.com/Bergam0t/Bergam0t/assets/29951987/9400203f-927c-471e-b56c-179576ae931a)
 
-
-<!--
-**Bergam0t/Bergam0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Extensive customisation is available through built-in menus. 
+Multiple output types are possible, including faceted graphs, metric cards, and several summary tables.
