@@ -25,7 +25,7 @@ Here are a couple of the things I've created:
 
 ## Animated event logs for discrete event simulation
 
-https://github.com/Bergam0t/Bergam0t/assets/29951987/8c0b1c90-6f0b-4c37-b670-7317b8171509
+https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit/assets/29951987/1adc36a0-7bc0-4808-8d71-2d253a855b31
 
 Play around with a live demo of this [here](https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit) - note that it won't load in Firefox!
 
