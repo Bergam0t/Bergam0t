@@ -4,7 +4,7 @@ I'm currently a trainer on the [Health Services Modelling Associates Programme](
 
 I was previously a data analyst, and later data scientist, in the NHS. 
 
-I completed my BSc in Biological Sciences at the University of Oxford in 2011-14, and my MSc in Health Data Science at the University of Exeter in 2020-21, with a focus on web app development for healthcare service improvement.
+I completed my BA in Biological Sciences at the University of Oxford in 2011-14, and my MSc in Health Data Science at the University of Exeter in 2020-21, with a focus on web app development for healthcare service improvement.
 
 I'm currently working on
 - animated outputs for discrete event simulation event logs
