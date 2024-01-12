@@ -24,6 +24,7 @@ I'd love to chat about
 Here are a couple of the things I've created:
 
 ## Animated event logs for discrete event simulation
+*This video intermittently fails to load - try refreshing the page if it's showing an error!*
 
 https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit/assets/29951987/1adc36a0-7bc0-4808-8d71-2d253a855b31
 
