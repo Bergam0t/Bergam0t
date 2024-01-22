@@ -15,6 +15,7 @@ My current favourite things to work with are
 - [Streamlit](https://streamlit.io/) (particularly serverless deployment with the amazing [stlite](https://github.com/whitphx/stlite) package)
 - [Kepler.gl](https://kepler.gl/)
 - [NetworkX](https://networkx.org/) and [Cytoscape.js](https://js.cytoscape.org/)
+- [Quarto](https://quarto.org/)
 
 I'd love to chat about
 - how to use routinely collected data better to improve mental healthcare services
