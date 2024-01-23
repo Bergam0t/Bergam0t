@@ -8,19 +8,20 @@ I completed my BA in Biological Sciences at the University of Oxford in 2011-14,
 
 I'm currently working on
 - animated outputs for discrete event simulation event logs
-- user-friendly visualisation of large graph networks in Streamlit
+- user-friendly visualisation of large graph networks in Streamlit (including adding extra features to the excellent [st-cytoscape extension](https://github.com/Bergam0t/st-cytoscape-extra))
 - open-source teaching materials on geographical visualisation, location allocation problems, gradient boosting methods, explainable AI, web app development with Streamlit, reproducible outputs with Quarto, forecasting, process mining with pm4py, and more...   
 
 My current favourite things to work with are
 - [Streamlit](https://streamlit.io/) (particularly serverless deployment with the amazing [stlite](https://github.com/whitphx/stlite) package)
 - [Kepler.gl](https://kepler.gl/)
-- [NetworkX](https://networkx.org/) and [Cytoscape.js](https://js.cytoscape.org/)
+- [NetworkX](https://networkx.org/) and [Cytoscape.js](https://js.cytoscape.org/) 
 - [Quarto](https://quarto.org/)
 
 I'd love to chat about
 - how to use routinely collected data better to improve mental healthcare services
 - how to make it easier for analysts and data scientists to securely deploy custom web apps in their organisations
-- improving data literacy in the NHS and helping stakeholders understand the amazing potential of R, Python, advanced analytics, operational research and data science 
+- improving data literacy in the NHS and helping stakeholders understand the amazing potential of R, Python, advanced analytics, operational research and data science
+- how to teach coding, data science and operational research effectively
 
 Here are a couple of the things I've created:
 
