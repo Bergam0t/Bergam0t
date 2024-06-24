@@ -1,6 +1,6 @@
 ### Hi there - I'm Sammi! 🚵 🏸 🎷 👩‍💻
 
-I'm currently a trainer on the [Health Service Modelling Associates Programme](https://sites.google.com/nihr.ac.uk/hsma).
+I'm currently a trainer on the [Health Service Modelling Associates Programme](https://github.com/hsma-programme).
 
 I was previously a data analyst, and later data scientist, in a mental health trust in the NHS. 
 
