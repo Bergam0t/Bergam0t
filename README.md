@@ -47,6 +47,14 @@ Co-authored with Dr Daniel Chalk (modifying and building on materials from the H
 
 You can read the ebook [here](https://hsma-programme.github.io/hsma6_intro_to_python_book/).
 
+## Ebook: Geographic Visualization and Optimization
+
+This HSMA book complements the geographic module on the programme, covering visualisation of geographic data in QGIS and Python. In Python, we look at both static and interactive maps. The book then goes on to retrieving travel times from APIs and calculating the optimal position of sites based on demand or population figures. 
+
+In future, the book will be expanded to cover additional topics including multiobjective optimization and geospatial statistics (hotspots, coldspots, spatial outliers). 
+
+You can read the ebook [here](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html).
+
 ## Health and Social Care Service Use Timelines (Theographs/Pearn Charts) for PowerBI
 [This custom PowerBI visual](https://github.com/Bergam0t/community_service_timelines) takes a simple, routinely collected dataset of patient history and displays it in a clear format. 
 
