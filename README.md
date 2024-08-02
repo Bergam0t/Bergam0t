@@ -9,7 +9,24 @@ I completed my BA in Biological Sciences at the University of Oxford in 2011-14,
 I'm currently working on
 - animated outputs for discrete event simulation event logs
 - user-friendly visualisation of large graph networks in Streamlit (including adding extra features to the excellent [st-cytoscape extension](https://github.com/Bergam0t/st-cytoscape-extra))
-- open-source teaching materials on geographical visualisation, location allocation problems, gradient boosting methods, explainable AI, web app development with Streamlit, reproducible outputs with Quarto, forecasting, process mining with pm4py, and more...   
+- open-source teaching materials on
+  - python for beginners
+    - [book](https://hsma-programme.github.io/hsma6_intro_to_python_book/)
+    - [course proof of concept](https://bergam0t.github.io/intro_to_python_course_proof_of_concept/)
+  - discrete event simulation
+    - [book](https://hsma-programme.github.io/hsma6_des_book/)
+    - [interactive playground](https://hsma-programme.github.io/Teaching_DES_Concepts_Streamlit/)
+  - [geographical visualisation, travel time lookups and location allocation problems](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html)
+  - [decision trees and random forests](https://github.com/hsma-programme/h6_4d_decision_trees_random_forests)
+  - [gradient boosting methods](https://github.com/hsma-programme/h6_4e_boosted_trees)
+  - [explainable AI](https://github.com/hsma-programme/h6_4g_explainable_ai)
+  - [reinforcement learning](https://github.com/Bergam0t/ReinforcementLearningGame)
+  - beginner statistics
+  - web app development with Streamlit
+  - reproducible outputs with Quarto
+  - forecasting
+  - process mining with pm4py
+  - and more...   
 
 My current favourite things to work with are
 - [Streamlit](https://streamlit.io/) (particularly serverless deployment with the amazing [stlite](https://github.com/whitphx/stlite) package)
