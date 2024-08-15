@@ -13,19 +13,20 @@ I'm currently working on
   - python for beginners
     - [book](https://hsma-programme.github.io/hsma6_intro_to_python_book/)
     - [course proof of concept](https://bergam0t.github.io/intro_to_python_course_proof_of_concept/)
-  - discrete event simulation
+  - discrete event simulation for healthcare pathway simulation
     - [book](https://hsma-programme.github.io/hsma6_des_book/)
     - [interactive playground](https://hsma-programme.github.io/Teaching_DES_Concepts_Streamlit/)
-  - [geographical visualisation, travel time lookups and location allocation problems](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html)
-  - [decision trees and random forests](https://github.com/hsma-programme/h6_4d_decision_trees_random_forests)
-  - [gradient boosting methods](https://github.com/hsma-programme/h6_4e_boosted_trees)
-  - [explainable AI](https://github.com/hsma-programme/h6_4g_explainable_ai)
-  - [reinforcement learning](https://github.com/Bergam0t/ReinforcementLearningGame)
-  - beginner statistics
-  - web app development with Streamlit
-  - reproducible outputs with Quarto
-  - forecasting
-  - process mining with pm4py
+  - [geographical visualisation, travel time lookups and service location optimisation](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html)
+  - machine learning, including
+    - [decision trees and random forests](https://github.com/hsma-programme/h6_4d_decision_trees_random_forests)
+    - [gradient boosting methods](https://github.com/hsma-programme/h6_4e_boosted_trees)
+    - [explainable AI](https://github.com/hsma-programme/h6_4g_explainable_ai)
+    - [reinforcement learning](https://github.com/Bergam0t/ReinforcementLearningGame)
+  - beginner statistics (coming soon!)
+  - web app development with Streamlit ([book - WIP](https://bergam0t.github.io/streamlit_book/))
+  - reproducible outputs with Quarto (coming soon!)
+  - forecasting (coming soon!)
+  - process mining with pm4py (coming soon!)
   - and more...   
 
 My current favourite things to work with are
