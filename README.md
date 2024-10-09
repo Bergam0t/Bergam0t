@@ -19,11 +19,14 @@ I'm currently working on
   - [geographical visualisation, travel time lookups and service location optimisation](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html)
   - machine learning, including
     - [decision trees and random forests](https://github.com/hsma-programme/h6_4d_decision_trees_random_forests)
-    - [gradient boosting methods](https://github.com/hsma-programme/h6_4e_boosted_trees)
-    - [explainable AI](https://github.com/hsma-programme/h6_4g_explainable_ai)
+    - [gradient boosting methods - XGBoost, Catboost, LightGBM](https://github.com/hsma-programme/h6_4e_boosted_trees)
+    - [explainable AI - SHAP; ICE and PDP plots](https://github.com/hsma-programme/h6_4g_explainable_ai)
     - [reinforcement learning](https://github.com/Bergam0t/ReinforcementLearningGame)
   - beginner statistics (coming soon!)
-  - web app development with Streamlit ([book - WIP](https://bergam0t.github.io/streamlit_book/))
+  - web app development with Streamlit
+      - [book](https://bergam0t.github.io/streamlit_book/)
+      - [session 1 - introduction to Streamlit; displaying dataframes, charts and maps; getting user input; laying out apps with tabs, columns and expanders](https://github.com/hsma-programme/h6_7b_web_apps_1)
+      - [session 2 - discrete event simulation apps, multipage apps, theming, run buttons, caching, partial reruns, session state, deployment](https://github.com/hsma-programme/h6_7c_web_apps_2)
   - reproducible outputs with Quarto (coming soon!)
   - forecasting (coming soon!)
   - process mining with pm4py (coming soon!)
