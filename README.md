@@ -1,6 +1,6 @@
 ### Hi there - I'm Sammi! 🚵 🏸 🎷 👩‍💻
 
-I'm currently a trainer on the [Health Service Modelling Associates Programme](https://github.com/hsma-programme).
+I'm currently a trainer on the [Health Service Modelling Associates Programme](https://hsma.co.uk).
 
 I was previously a data analyst, and later data scientist, in a mental health trust in the NHS. 
 
@@ -27,9 +27,7 @@ I'm currently working on
       - [book](https://bergam0t.github.io/streamlit_book/)
       - [session 1 - introduction to Streamlit; displaying dataframes, charts and maps; getting user input; laying out apps with tabs, columns and expanders](https://github.com/hsma-programme/h6_7b_web_apps_1)
       - [session 2 - discrete event simulation apps, multipage apps, theming, run buttons, caching, partial reruns, session state, deployment](https://github.com/hsma-programme/h6_7c_web_apps_2)
-  - reproducible outputs with Quarto (coming soon!)
-  - forecasting (coming soon!)
-  - process mining with pm4py (coming soon!)
+  - [reproducible outputs with Quarto](https://hsma.co.uk/hsma_content/modules/current_module_details/8_modern_analytics.html)
   - and more...   
 
 My current favourite things to work with are
@@ -50,11 +48,11 @@ Here are a couple of the things I've created:
 
 https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit/assets/29951987/1adc36a0-7bc0-4808-8d71-2d253a855b31
 
-Play around with a live demo of this [here](https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit) - note that it won't load in Firefox!
+Play around with a live demo of this [here](https://playground.hsma.co.uk) - note that it won't load in Firefox!
+
+This work has been released as the [vidigi package](https://bergam0t.github.io/vidigi/vidigi_docs/) to allow people to visualise their own systems.
 
 Further example visualisations can be found in [this web app](https://simpy-visualisation.streamlit.app/), with the code available in [this repository](https://github.com/hsma-programme/simpy_visualisation/tree/main/examples).
-
-The visualisation element is intended to be released as a standalone package in late 2024.
 
 ## Ebook: Simpy for healthcare modelling
 
@@ -70,11 +68,17 @@ You can read the ebook [here](https://hsma-programme.github.io/hsma6_intro_to_py
 
 ## Ebook: Geographic Visualization and Optimization
 
-This HSMA book complements the geographic module on the programme, covering visualisation of geographic data in QGIS and Python. In Python, we look at both static and interactive maps. The book then goes on to retrieving travel times from APIs and calculating the optimal position of sites based on demand or population figures. 
+This HSMA book complements the geographic module on the programme, covering visualisation of geographic data in QGIS (with thanks to Dr Kerry Pearn) and Python. In Python, we look at both static and interactive maps. The book then goes on to retrieving travel times from APIs and calculating the optimal position of sites based on demand or population figures. 
 
 In future, the book will be expanded to cover additional topics including multiobjective optimization and geospatial statistics (hotspots, coldspots, spatial outliers). 
 
 You can read the ebook [here](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html).
+
+## Ebook: Web Apps with Streamlit
+
+This HSMA book helps with turning your code into an interactive tool, with a special focus on building front ends for discrete event simulation models.
+
+You can read the ebook [here](https://webapps.hsma.co.uk).
 
 ## Health and Social Care Service Use Timelines (Theographs/Pearn Charts) for PowerBI
 [This custom PowerBI visual](https://github.com/Bergam0t/community_service_timelines) takes a simple, routinely collected dataset of patient history and displays it in a clear format. 
