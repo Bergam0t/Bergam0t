@@ -16,13 +16,14 @@ I'm currently working on
   - discrete event simulation for healthcare pathway simulation
     - [book](https://hsma-programme.github.io/hsma6_des_book/)
     - [interactive playground](https://hsma-programme.github.io/Teaching_DES_Concepts_Streamlit/)
-  - [geographical visualisation, travel time lookups and service location optimisation](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html)
+  - geographical visualisation, travel time lookups and service location optimisation
+    - [book](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html)
+    - [sessions](https://hsma.co.uk/hsma_content/modules/current_module_details/3_geographic_modelling_visualisation.html)
   - machine learning, including
     - [decision trees and random forests](https://github.com/hsma-programme/h6_4d_decision_trees_random_forests)
     - [gradient boosting methods - XGBoost, Catboost, LightGBM](https://github.com/hsma-programme/h6_4e_boosted_trees)
     - [explainable AI - SHAP; ICE and PDP plots](https://github.com/hsma-programme/h6_4g_explainable_ai)
     - [reinforcement learning](https://github.com/Bergam0t/ReinforcementLearningGame)
-  - beginner statistics (coming soon!)
   - web app development with Streamlit
       - [book](https://webapps.hsma.co.uk)
       - [session 1 - introduction to Streamlit; displaying dataframes, charts and maps; getting user input; laying out apps with tabs, columns and expanders](https://github.com/hsma-programme/h6_7b_web_apps_1)
