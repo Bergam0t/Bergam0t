@@ -24,7 +24,7 @@ I'm currently working on
     - [reinforcement learning](https://github.com/Bergam0t/ReinforcementLearningGame)
   - beginner statistics (coming soon!)
   - web app development with Streamlit
-      - [book](https://bergam0t.github.io/streamlit_book/)
+      - [book](https://webapps.hsma.co.uk)
       - [session 1 - introduction to Streamlit; displaying dataframes, charts and maps; getting user input; laying out apps with tabs, columns and expanders](https://github.com/hsma-programme/h6_7b_web_apps_1)
       - [session 2 - discrete event simulation apps, multipage apps, theming, run buttons, caching, partial reruns, session state, deployment](https://github.com/hsma-programme/h6_7c_web_apps_2)
   - [reproducible outputs with Quarto](https://hsma.co.uk/hsma_content/modules/current_module_details/8_modern_analytics.html)
@@ -40,6 +40,8 @@ I'd love to chat about
 - how to make it easier for analysts and data scientists to securely deploy custom web apps in their organisations
 - improving data literacy in the NHS and helping stakeholders understand the amazing potential of R, Python, advanced analytics, operational research and data science
 - how to teach coding, data science and operational research effectively
+
+[![Sammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bergam0t&theme=radical&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are a couple of the things I've created:
 
