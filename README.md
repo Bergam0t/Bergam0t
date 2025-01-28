@@ -57,13 +57,13 @@ This work has been released as the [vidigi package](https://bergam0t.github.io/v
 
 Further example visualisations can be found in [this web app](https://simpy-visualisation.streamlit.app/), with the code available in [this repository](https://github.com/hsma-programme/simpy_visualisation/tree/main/examples).
 
-## Ebook: Simpy for healthcare modelling
+## Ebook: Discrete Event Simulation for Healthcare with Simpy 
 
 Co-authored with Dr Daniel Chalk (modifying and building on materials from the HSMA programme), this ebook takes users from being complete beginners in discrete event simulation through to being able to create complex simulation models with the simpy package.
 
 You can read the ebook [here](https://hsma-programme.github.io/hsma6_des_book/).
 
-## Ebook: Python for beginners
+## Ebook: Python for Beginners
 
 Co-authored with Dr Daniel Chalk (modifying and building on materials from the HSMA programme), this ebook takes users from being complete beginners in Python through to being able to use many of the key features of the language.
 
@@ -79,7 +79,7 @@ You can read the ebook [here](https://hsma-programme.github.io/hsma6_geographic_
 
 ## Ebook: Web Apps with Streamlit
 
-This HSMA book helps with turning your code into an interactive tool, with a special focus on building front ends for discrete event simulation models.
+This HSMA book helps with turning your code into an interactive tool, with a special focus on building front ends for discrete event simulation (DES) models.
 
 You can read the ebook [here](https://webapps.hsma.co.uk).
 
@@ -90,7 +90,7 @@ Long-term referrals as well as individual interactions with services can be show
 
 ![image](https://github.com/Bergam0t/Bergam0t/assets/29951987/d8434477-7ea3-4043-93b8-7bb8ab5d98c7)
 
-A [second visual](https://github.com/Bergam0t/inpatient_timelines) is designed specifically for non-overlapping data.
+A [second visual](https://github.com/Bergam0t/inpatient_timelines) is designed specifically for non-overlapping data, such as ward stays.
 
 ![image](https://github.com/Bergam0t/Bergam0t/assets/29951987/7623cde5-cc5c-4572-a856-db0c569ce94e)
 
