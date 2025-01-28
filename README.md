@@ -35,7 +35,7 @@ My current favourite things to work with are
 - [Streamlit](https://streamlit.io/) (particularly serverless deployment with the amazing [stlite](https://github.com/whitphx/stlite) package)
 - [Quarto](https://quarto.org/) and the fantastic [webexercises](https://github.com/Bergam0t/webexercises) and [quarto-pyodide](https://github.com/coatless-quarto/pyodide) extensions for adding interactivity to Quarto ebooks 
   - I built the new HSMA website in Quarto! Check out the code [here](https://github.com/hsma-programme/hsma_site) and the site at [hsma.co.uk](https://hsma.co.uk)
-  - All of our course books use Quarto! 
+  - All of our [course books](https://hsma.co.uk/hsma_content/books/books.html) use Quarto! 
 - [Godot](https://godotengine.org/) 
 
 I'd love to chat about
