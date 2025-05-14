@@ -33,12 +33,16 @@ I'm currently working on
   - [reproducible outputs with Quarto](https://hsma.co.uk/hsma_content/modules/current_module_details/8_modern_analytics.html)
   - and more...   
 
+## Favourite things to work with
+
 My current favourite things to work with are
 - [Streamlit](https://streamlit.io/) (particularly serverless deployment with the amazing [stlite](https://github.com/whitphx/stlite) package)
-- [Quarto](https://quarto.org/) and the fantastic [webexercises](https://github.com/Bergam0t/webexercises) and [quarto-pyodide](https://github.com/coatless-quarto/pyodide) extensions for adding interactivity to Quarto ebooks 
+- [Quarto](https://quarto.org/) and the fantastic [webexercises](https://github.com/Bergam0t/webexercises), [quarto-pyodide](https://github.com/coatless-quarto/pyodide) and [quarto-stlite](https://github.com/whitphx/quarto-stlite) extensions for adding interactivity to Quarto ebooks 
   - I built the new HSMA website in Quarto! Check out the code [here](https://github.com/hsma-programme/hsma_site) and the site at [hsma.co.uk](https://hsma.co.uk)
   - All of our [course books](https://hsma.co.uk/hsma_content/books/books.html) use Quarto! 
 - [Godot](https://godotengine.org/) 
+
+## Chat with me!
 
 I'd love to chat about
 - how to use routinely collected data better to improve mental healthcare services
@@ -48,9 +52,11 @@ I'd love to chat about
 
 [![Sammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bergam0t&theme=radical&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are a couple of the things I've created:
+## Showcase
 
-## Animated event logs for discrete event simulation
+Here are a couple of the things I've created!
+
+### Animated event logs for discrete event simulation
 *This video intermittently fails to load - try refreshing the page if it's showing an error!*
 
 https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit/assets/29951987/1adc36a0-7bc0-4808-8d71-2d253a855b31
@@ -61,19 +67,19 @@ This work has been released as the [vidigi package](https://bergam0t.github.io/v
 
 Further example visualisations can be found in [this web app](https://simpy-visualisation.streamlit.app/), with the code available in [this repository](https://github.com/hsma-programme/simpy_visualisation/tree/main/examples).
 
-## Ebook: Discrete Event Simulation for Healthcare with Simpy 
+### Ebook: Discrete Event Simulation for Healthcare with Simpy 
 
 Co-authored with Dr Daniel Chalk (modifying and building on materials from the HSMA programme), this ebook takes users from being complete beginners in discrete event simulation through to being able to create complex simulation models with the simpy package.
 
 You can read the ebook [here](https://hsma-programme.github.io/hsma6_des_book/).
 
-## Ebook: Python for Beginners
+### Ebook: Python for Beginners
 
 Co-authored with Dr Daniel Chalk (modifying and building on materials from the HSMA programme), this ebook takes users from being complete beginners in Python through to being able to use many of the key features of the language.
 
 You can read the ebook [here](https://hsma-programme.github.io/hsma6_intro_to_python_book/).
 
-## Ebook: Geographic Visualization and Optimization
+### Ebook: Geographic Visualization and Optimization
 
 This HSMA book complements the geographic module on the programme, covering visualisation of geographic data in QGIS (with thanks to Dr Kerry Pearn) and Python. In Python, we look at both static and interactive maps. The book then goes on to retrieving travel times from APIs and calculating the optimal position of sites based on demand or population figures. 
 
@@ -81,13 +87,13 @@ In future, the book will be expanded to cover additional topics including multio
 
 You can read the ebook [here](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html).
 
-## Ebook: Web Apps with Streamlit
+### Ebook: Web Apps with Streamlit
 
 This HSMA book helps with turning your code into an interactive tool, with a special focus on building front ends for discrete event simulation (DES) models.
 
 You can read the ebook [here](https://webapps.hsma.co.uk).
 
-## Health and Social Care Service Use Timelines (Theographs/Pearn Charts) for PowerBI
+### Health and Social Care Service Use Timelines (Theographs/Pearn Charts) for PowerBI
 [This custom PowerBI visual](https://github.com/Bergam0t/community_service_timelines) takes a simple, routinely collected dataset of patient history and displays it in a clear format. 
 
 Long-term referrals as well as individual interactions with services can be shown, with customisable tooltips, allowing clinicians to get an overview of a patient's history in a quick glance and spot repeated patterns of service interaction. Designed initially for use in mental health services, where clients can have more than a decade of data, thousands of contacts, and systems which display these details as rows of text rather than in a way that allows easy interpretation.
@@ -99,7 +105,7 @@ A [second visual](https://github.com/Bergam0t/inpatient_timelines) is designed s
 ![image](https://github.com/Bergam0t/Bergam0t/assets/29951987/7623cde5-cc5c-4572-a856-db0c569ce94e)
 
 
-## SPC charts for PowerBI (based on code from the NHSRPlotTheDots project)
+### SPC charts for PowerBI (based on code from the NHSRPlotTheDots project)
 [This custom PowerBI visual](https://github.com/Bergam0t/nhs_ptd_power_bi) allows SPC charts to be created within PowerBI that automatically adhere to the making data count guidance. 
 
 ![image](https://github.com/Bergam0t/Bergam0t/assets/29951987/9400203f-927c-471e-b56c-179576ae931a)
