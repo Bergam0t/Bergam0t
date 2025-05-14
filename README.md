@@ -8,6 +8,8 @@ I completed my BA in Biological Sciences at the University of Oxford in 2011-14,
 
 I'm currently working on
 - animated outputs for discrete event simulation event logs
+    - find my package **vidigi** on [PyPi](https://pypi.org/project/vidigi/)
+    - view the [documentation](https://sammirosser.com/vidigi/vidigi_docs/) and [source code](https://github.com/Bergam0t/vidigi)
 - user-friendly visualisation of large graph networks in Streamlit (including adding extra features to the excellent [st-cytoscape extension](https://github.com/Bergam0t/st-cytoscape-extra))
 - open-source teaching materials on
   - python for beginners
