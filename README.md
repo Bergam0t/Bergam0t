@@ -8,13 +8,13 @@ I completed my BA in Biological Sciences at the University of Oxford in 2011-14,
 
 I'm currently working on
 - animated outputs for discrete event simulation event logs
-    - find my package **vidigi** on [PyPi](https://pypi.org/project/vidigi/)
+    - find my package [**vidigi**](https://github.com/hsma-tools/vidigi) on [PyPi](https://pypi.org/project/vidigi/)
     - view the [documentation](https://sammirosser.com/vidigi/vidigi_docs/) and [source code](https://github.com/Bergam0t/vidigi)
 - user-friendly visualisation of large graph networks in Streamlit (including adding extra features to the excellent [st-cytoscape extension](https://github.com/Bergam0t/st-cytoscape-extra))
+- making it easier to turn Streamlit apps into pyodide-based serverless apps - find my package [**stlitepack**](https://github.com/hsma-tools/stlitepack) on [PyPi](https://pypi.org/project/stlitepack/) 
 - open-source teaching materials on
   - python for beginners
     - [book](https://hsma-programme.github.io/hsma6_intro_to_python_book/)
-    - [course proof of concept](https://bergam0t.github.io/intro_to_python_course_proof_of_concept/)
   - discrete event simulation for healthcare pathway simulation
     - [book](https://hsma-programme.github.io/hsma6_des_book/)
     - [interactive playground](https://hsma-programme.github.io/Teaching_DES_Concepts_Streamlit/)
@@ -40,8 +40,6 @@ My current favourite things to work with are
 - [Quarto](https://quarto.org/) and the fantastic [webexercises](https://github.com/Bergam0t/webexercises), [quarto-pyodide](https://github.com/coatless-quarto/pyodide) and [quarto-stlite](https://github.com/whitphx/quarto-stlite) extensions for adding interactivity to Quarto ebooks 
   - I built the new HSMA website in Quarto! Check out the code [here](https://github.com/hsma-programme/hsma_site) and the site at [hsma.co.uk](https://hsma.co.uk)
   - All of our [course books](https://hsma.co.uk/hsma_content/books/books.html) use Quarto! 
-- [Godot](https://godotengine.org/) 
-
 ## Chat with me!
 
 I'd love to chat about
