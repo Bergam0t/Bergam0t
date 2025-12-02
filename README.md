@@ -7,6 +7,7 @@ I was previously a data analyst, and later data scientist, in a mental health tr
 I completed my BA in Biological Sciences at the University of Oxford in 2011-14, and my MSc in Health Data Science at the University of Exeter in 2020-21, with a focus on web app development for healthcare service improvement.
 
 I'm currently working on
+- compiling an Atlas of useful tools, packages, projects, techniques and graphs for people working in healthcare services in the UK: [atlas.hsma.co.uk](https://atlas.hsma.co.uk)
 - animated outputs for discrete event simulation event logs
     - find my package [**vidigi**](https://github.com/hsma-tools/vidigi) on [PyPi](https://pypi.org/project/vidigi/)
     - view the [documentation](https://sammirosser.com/vidigi/vidigi_docs/) and [source code](https://github.com/Bergam0t/vidigi)
