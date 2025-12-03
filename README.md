@@ -7,11 +7,17 @@ I was previously a data analyst, and later data scientist, in a mental health tr
 I completed my BA in Biological Sciences at the University of Oxford in 2011-14, and my MSc in Health Data Science at the University of Exeter in 2020-21, with a focus on web app development for healthcare service improvement.
 
 I'm currently working on
-- compiling an Atlas of useful tools, packages, projects, techniques and graphs for people working in healthcare services in the UK: [atlas.hsma.co.uk](https://atlas.hsma.co.uk)
+- setting up a community-owned Atlas of useful tools, packages, projects, techniques and graphs for people working in healthcare services in the UK: [atlas.hsma.co.uk](https://atlas.hsma.co.uk)
+  <img height=700 alt="image" src="https://github.com/user-attachments/assets/df69d03f-a3f9-4ce8-9a37-e6fb0a87a6d7" />
+  
 - animated outputs for discrete event simulation event logs
     - find my package [**vidigi**](https://github.com/hsma-tools/vidigi) on [PyPi](https://pypi.org/project/vidigi/)
     - view the [documentation](https://sammirosser.com/vidigi/vidigi_docs/) and [source code](https://github.com/Bergam0t/vidigi)
-- user-friendly visualisation of large graph networks in Streamlit (including adding extra features to the excellent [st-cytoscape extension](https://github.com/Bergam0t/st-cytoscape-extra))
+
+    <img src="https://github.com/user-attachments/assets/ce1b1959-f499-4d60-a0cc-353180c61d87" height="300">
+    <img src="https://github.com/user-attachments/assets/20351bbf-2985-438b-8d1f-e56cebd8bde1" height="300">
+    <img src="https://github.com/user-attachments/assets/ab9c16ac-0a3a-4521-ab8b-56a3fefdc11a" height="450">
+    
 - making it easier to turn Streamlit apps into pyodide-based serverless apps - find my package [**stlitepack**](https://github.com/hsma-tools/stlitepack) on [PyPi](https://pypi.org/project/stlitepack/) 
 - open-source teaching materials on
   - python for beginners
@@ -22,11 +28,6 @@ I'm currently working on
   - geographical visualisation, travel time lookups and service location optimisation
     - [book](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html)
     - [sessions](https://hsma.co.uk/hsma_content/modules/current_module_details/3_geographic_modelling_visualisation.html)
-  - machine learning, including
-    - [decision trees and random forests](https://github.com/hsma-programme/h6_4d_decision_trees_random_forests)
-    - [gradient boosting methods - XGBoost, Catboost, LightGBM](https://github.com/hsma-programme/h6_4e_boosted_trees)
-    - [explainable AI - SHAP; ICE and PDP plots](https://github.com/hsma-programme/h6_4g_explainable_ai)
-    - [reinforcement learning](https://github.com/Bergam0t/ReinforcementLearningGame)
   - web app development with Streamlit
       - [book](https://webapps.hsma.co.uk)
       - [session 1 - introduction to Streamlit; displaying dataframes, charts and maps; getting user input; laying out apps with tabs, columns and expanders](https://github.com/hsma-programme/h6_7b_web_apps_1)
@@ -41,6 +42,7 @@ My current favourite things to work with are
 - [Quarto](https://quarto.org/) and the fantastic [webexercises](https://github.com/Bergam0t/webexercises), [quarto-pyodide](https://github.com/coatless-quarto/pyodide) and [quarto-stlite](https://github.com/whitphx/quarto-stlite) extensions for adding interactivity to Quarto ebooks 
   - I built the new HSMA website in Quarto! Check out the code [here](https://github.com/hsma-programme/hsma_site) and the site at [hsma.co.uk](https://hsma.co.uk)
   - All of our [course books](https://hsma.co.uk/hsma_content/books/books.html) use Quarto! 
+
 ## Chat with me!
 
 I'd love to chat about
@@ -51,46 +53,9 @@ I'd love to chat about
 
 [![Sammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bergam0t&theme=radical&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-## Showcase
+## Other Projects
 
-Here are a couple of the things I've created!
-
-### Animated event logs for discrete event simulation
-*This video intermittently fails to load - try refreshing the page if it's showing an error!*
-
-https://github.com/hsma-programme/Teaching_DES_Concepts_Streamlit/assets/29951987/1adc36a0-7bc0-4808-8d71-2d253a855b31
-
-Play around with a live demo of this [here](https://playground.hsma.co.uk) - note that it won't load in Firefox!
-
-This work has been released as the [vidigi package](https://bergam0t.github.io/vidigi/vidigi_docs/) to allow people to visualise their own systems.
-
-Further example visualisations can be found in [this web app](https://simpy-visualisation.streamlit.app/), with the code available in [this repository](https://github.com/hsma-programme/simpy_visualisation/tree/main/examples).
-
-### Ebook: Discrete Event Simulation for Healthcare with Simpy 
-
-Co-authored with Dr Daniel Chalk (modifying and building on materials from the HSMA programme), this ebook takes users from being complete beginners in discrete event simulation through to being able to create complex simulation models with the simpy package.
-
-You can read the ebook [here](https://hsma-programme.github.io/hsma6_des_book/).
-
-### Ebook: Python for Beginners
-
-Co-authored with Dr Daniel Chalk (modifying and building on materials from the HSMA programme), this ebook takes users from being complete beginners in Python through to being able to use many of the key features of the language.
-
-You can read the ebook [here](https://hsma-programme.github.io/hsma6_intro_to_python_book/).
-
-### Ebook: Geographic Visualization and Optimization
-
-This HSMA book complements the geographic module on the programme, covering visualisation of geographic data in QGIS (with thanks to Dr Kerry Pearn) and Python. In Python, we look at both static and interactive maps. The book then goes on to retrieving travel times from APIs and calculating the optimal position of sites based on demand or population figures. 
-
-In future, the book will be expanded to cover additional topics including multiobjective optimization and geospatial statistics (hotspots, coldspots, spatial outliers). 
-
-You can read the ebook [here](https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/intro.html).
-
-### Ebook: Web Apps with Streamlit
-
-This HSMA book helps with turning your code into an interactive tool, with a special focus on building front ends for discrete event simulation (DES) models.
-
-You can read the ebook [here](https://webapps.hsma.co.uk).
+Here are a couple of other things I've created!
 
 ### Health and Social Care Service Use Timelines (Theographs/Pearn Charts) for PowerBI
 [This custom PowerBI visual](https://github.com/Bergam0t/community_service_timelines) takes a simple, routinely collected dataset of patient history and displays it in a clear format. 
