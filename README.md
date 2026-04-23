@@ -17,7 +17,8 @@ I'm currently working on
     <img src="https://github.com/user-attachments/assets/ce1b1959-f499-4d60-a0cc-353180c61d87" height="300">
     <img src="https://github.com/user-attachments/assets/20351bbf-2985-438b-8d1f-e56cebd8bde1" height="300">
     <img src="https://github.com/user-attachments/assets/ab9c16ac-0a3a-4521-ab8b-56a3fefdc11a" height="450">
-    
+
+- making it easier to solve facility location projects - check out my package [**lokigi**](https://github.com/hsma-tools/lokigi) (early WIP!)
 - making it easier to turn Streamlit apps into pyodide-based serverless apps - find my package [**stlitepack**](https://github.com/hsma-tools/stlitepack) on [PyPi](https://pypi.org/project/stlitepack/) 
 - open-source teaching materials on
   - python for beginners
