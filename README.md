@@ -53,11 +53,9 @@ I'd love to chat about
 - improving data literacy in the NHS and helping stakeholders understand the amazing potential of R, Python, advanced analytics, operational research and data science
 - how to teach coding, data science and operational research effectively
 
-[![Sammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bergam0t&theme=radical&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+## Past Projects
 
-## Other Projects
-
-Here are a couple of other things I've created!
+Here are a couple of other things I've created that are looking for someone to take over.
 
 ### Health and Social Care Service Use Timelines (Theographs/Pearn Charts) for PowerBI
 [This custom PowerBI visual](https://github.com/Bergam0t/community_service_timelines) takes a simple, routinely collected dataset of patient history and displays it in a clear format. 
