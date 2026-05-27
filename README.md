@@ -8,7 +8,7 @@ I completed my BA in Biological Sciences at the University of Oxford in 2011-14,
 
 I'm currently working on
 - setting up a community-owned Atlas of useful tools, packages, projects, techniques and graphs for people working in healthcare services in the UK: [atlas.hsma.co.uk](https://atlas.hsma.co.uk)
-  <img height=600 alt="image" src="https://github.com/user-attachments/assets/df69d03f-a3f9-4ce8-9a37-e6fb0a87a6d7" />
+  <img height=400 alt="image" src="https://github.com/user-attachments/assets/df69d03f-a3f9-4ce8-9a37-e6fb0a87a6d7" />
   
 - animated outputs for discrete event simulation event logs
     - find my package [**vidigi**](https://github.com/hsma-tools/vidigi) on [PyPi](https://pypi.org/project/vidigi/)
